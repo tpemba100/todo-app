@@ -1,0 +1,12 @@
+import React from 'react'
+
+const Header = () => {
+    return (
+        <div className ="header">
+            <h1>Todo List App</h1>
+            
+        </div>
+    )
+}
+
+export defualt Header;
