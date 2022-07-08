@@ -8,11 +8,11 @@ This application helps you keep track of your task and things to do for the day.
 - Edit to-do list
 - Delete to-do list
 - saved in local storage (localstorage:3000)
---
+
 ![caption](img/todoapp.gif)
---
+
 ![alt text](https://github.com/tpemba100/todo-app/blob/master/img/7.png?raw=true)
---
+
 ## Technologies
 - React (Frontend View Framework)
 - React Hooks (useState, useEffect)
