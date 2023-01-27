@@ -9,6 +9,8 @@ This application helps you keep track of your task and things to do for the day.
 - Delete to-do list
 - saved in local storage (localstorage:3000)
 
+## [Live Website](https://simple-todo-js.vercel.app/)
+
 ![caption](img/todoapp.gif)
 
 ![alt text](https://github.com/tpemba100/todo-app/blob/master/img/7.png?raw=true)
